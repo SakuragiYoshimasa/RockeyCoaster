@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\HandController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\SpeedController.cs" Line="72" Column="13" />
+      <File FileName="Assets\Scripts\EndingController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SpeedController.cs" Line="81" Column="1" />
+      <File FileName="Assets\Scripts\HandController.cs" Line="25" Column="23" />
+      <File FileName="Assets\Scripts\StartMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TrokkoMusic.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Kinect2ModelControllerV2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BodySourceManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Windows\Kinect\KinectSensor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ScoreController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
